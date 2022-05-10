@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "couchbase": "https://esm.sh/couchbase?target=deno&path=/"
+  }
+}
